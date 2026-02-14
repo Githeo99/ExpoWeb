@@ -56,7 +56,7 @@ export default function Contact() {
         )}
         <TextInput
           style={styles.input}
-          placeholder="Name"
+          placeholder="Username"
           value={name}
           onChangeText={setName}
         />
